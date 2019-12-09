@@ -1,4 +1,9 @@
-/data/
 /node_modules/
 /s2-cell-draw-master/
 /s2-geometry.js-master
+/s2draw.js
+/s2geometry.js
+/somegarbage.js
+/test.html
+/package-lock.json
+/package.json

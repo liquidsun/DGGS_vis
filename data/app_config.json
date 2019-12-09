@@ -1,0 +1,19 @@
+{
+  "buttonGroups": [
+    {
+      "fullname": "Uber h3",
+      "name": "h3",
+      "levels": [0,1,2,3]
+    },
+    {
+      "fullname": "Google s2",
+      "name": "s2",
+      "levels": [0,1,2,3,4,5]
+    },
+    {
+      "fullname": "RiskAware ISEA3T",
+      "name": "eaggrt",
+      "levels": [0,1,2,3,4,5]
+    }
+  ]
+}

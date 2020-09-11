@@ -55,7 +55,7 @@ function createButtons(json) {
         //iterate through levels array, create button for each
         //and assign click event listener
         e.levels.forEach(l=>{
-          var curButton =  $('<button></button>', {
+            var curButton =  $('<button></button>', {
                 "type":"button",
                 "class":"btn btn-secondary",
                 "text":l
@@ -88,7 +88,7 @@ function loadGeoJSON(levels,type){
                 minimumBlue : 0.6,
                 alpha : 1.0
             }),
-            strokeWidth: 20
+            strokeWidth: 30
         });
 
         promise.then(datasource=>{

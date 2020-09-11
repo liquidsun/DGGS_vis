@@ -14,6 +14,31 @@
       "fullname": "RiskAware ISEA3T",
       "name": "eaggrt",
       "levels": [0,1,2,3,4,5]
+    },
+    {
+      "fullname": "DGGRID ISEA3H",
+      "name": "ISEA3H",
+      "levels": [1,2,3,4,5]
+    },
+    {
+      "fullname": "DGGRID ISEA4H",
+      "name": "ISEA4H",
+      "levels": [1,2,3,4,5]
+    },
+    {
+      "fullname": "DGGRID ISEA4D",
+      "name": "ISEA4D",
+      "levels": [1,2,3,4,5]
+    },
+    {
+      "fullname": "DGGRID ISEA4T",
+      "name": "ISEA4T",
+      "levels": [1,2,3,4,5]
+    },
+    {
+      "fullname": "rhealpix",
+      "name": "rhealpix",
+      "levels": [0,1,2,3,4]
     }
   ]
 }

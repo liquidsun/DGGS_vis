@@ -88,7 +88,7 @@ function loadGeoJSON(levels,type){
                 minimumBlue : 0.6,
                 alpha : 1.0
             }),
-            strokeWidth: 30
+            strokeWidth: 2
         });
 
         promise.then(datasource=>{

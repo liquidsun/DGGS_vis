@@ -83,9 +83,6 @@ function loadGeoJSON(levels,type){
                 alpha: 0.05
             }),
             stroke: Cesium.Color.fromRandom({
-                minimumRed : 1,
-                minimumGreen : 1,
-                minimumBlue : 1,
                 alpha : 1.0
             }),
             strokeWidth: 2

@@ -4,3 +4,5 @@
 
 Global grids geometry is pregenereated on several resolutions in GeoJSON format using corresponindg libraries.
 Results are dynamically loaded into Cesium app from data folder 
+
+Test test test test
